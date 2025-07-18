@@ -8,7 +8,7 @@ https://docs.google.com/spreadsheets/d/1zRpd1Q497p9hYsMoIfLdI0lq1hZaRCyf5bI6PKRu
 https://docs.google.com/spreadsheets/d/1lTouFnO2R0IztEecpepUd7B1QMfLsr5f/edit?gid=214918395#gid=214918395
 
 **ส่วนที่ต้องแก้ไข**
-- เนื่องจาก criteria ใน prompt จะเป็น true ได้ require ให้มี > คำถาม + หัตถการ + บริบท > เลยต้องแก้จากการแบ่งกลุ่ม(category_level1) 3 ประเภทเป็น 2 ประเภท (knowledge base เกี่ยวกับอาการหลังการทำหัตถการ และ knowledge base เกี่ยวกับการปฏิบัติตัวหลังการทำหัตถการ)
-
+- เนื่องจาก criteria ใน prompt จะเป็น true ได้ require ให้มี > คำถาม + หัตถการ + บริบท > เลยต้องแก้การแบ่งกลุ่มเป็น category1 คือหัตถการ, category2 คือบริบท(เช่น food,bleeding, pain, workout)
+  
 **Future Work**
 - ดูเรื่อง benchmark
