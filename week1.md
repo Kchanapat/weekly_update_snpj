@@ -15,4 +15,4 @@ https://docs.google.com/spreadsheets/d/1lTouFnO2R0IztEecpepUd7B1QMfLsr5f/edit?gi
   - category_level1 -> หัตถการ: ครอบคลุมขั้นตอนการรักษา เช่น extraction, third molar surgery, dental implant surgery
   - category_level2 -> บริบท: อาการภาวะแทรกซ้อนและการปฏิบัติตัวหลังการทำหัตถการ เช่น food, bleeding, pain, oral hygiene
   - ex. คำถาม: "หลังถอนฟันเลือดออกเยอะต้องทำยังไง" -> หัตถการ: extraction , บริบท: bleeding
-    Benchmark: วัด Accuracy ว่า AI ดึงข้อมูลจากไฟล์ที่มีlabelหัตถการและบริบทที่ตรงกัน (เช่น ไฟล์ที่มี "extraction" และ "bleeding")
+  - Benchmark: วัด Accuracy ว่า AI ดึงข้อมูลจากไฟล์ที่มีlabelหัตถการและบริบทที่ตรงกัน (เช่น ไฟล์ที่มี "extraction" และ "bleeding")
