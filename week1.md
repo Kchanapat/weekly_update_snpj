@@ -1,4 +1,4 @@
-# UPDATE WEEK 2
+# UPDATE WEEK 1
 **Work Done**
 - จากการ label ที่ได้จากพี่พัด > จัดกลุ่ม knowledge base และ คำถาม testcase ได้ออกเป็น 3 กลุ่มใหญ่(category_level1)คือ หัตถการ, อาการภาวะแทรกซ้อน, การปฏิบัติตัวหลังการทำหัตถการ และสามารถแบ่งข้อมูลเป็นกลุ่มย่อย(category_level2) ได้ดังนี้
 https://docs.google.com/spreadsheets/d/1zRpd1Q497p9hYsMoIfLdI0lq1hZaRCyf5bI6PKRuFgs/edit?gid=0#gid=0
