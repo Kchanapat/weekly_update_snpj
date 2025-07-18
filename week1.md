@@ -12,7 +12,7 @@ https://docs.google.com/spreadsheets/d/1lTouFnO2R0IztEecpepUd7B1QMfLsr5f/edit?gi
 เนื่องจาก criteria ใน prompt จะเป็น true ได้ require ให้มี > คำถาม + หัตถการ + บริบท > เลยต้องแก้การแบ่งกลุ่มเป็น category1 คือหัตถการ, category2 คือบริบท(เช่น food,bleeding, pain, workout)
 - ดูเรื่อง benchmark
 - draft benchmark
-  - category_level1 -> หัตถการ: ครอบคลุมขั้นตอนการรักษา เช่น extraction, third molar surgery, dental implant surgery
-  - category_level2 -> บริบท: อาการภาวะแทรกซ้อนและการปฏิบัติตัวหลังการทำหัตถการ เช่น food, bleeding, pain, oral hygiene
+  - category_level1 -> หัตถการ: หัตถการทั้งหมด เช่น extraction, third molar surgery, surgical removal of impacted teeth, surgical removal of impacted tooth, bone grafting, dental implant surgery
+  - category_level2 -> บริบท: อาการภาวะแทรกซ้อน + การปฏิบัติตัวหลังการทำหัตถการ เช่น food, bleeding, pain, oral hygiene
   - ex. คำถาม: "หลังถอนฟันเลือดออกเยอะต้องทำยังไง" -> หัตถการ: extraction , บริบท: bleeding
   - Benchmark: วัด Accuracy ว่า AI ดึงข้อมูลจากไฟล์ที่มีlabelหัตถการและบริบทที่ตรงกัน (เช่น ไฟล์ที่มี "extraction" และ "bleeding")
