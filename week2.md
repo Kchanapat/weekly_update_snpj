@@ -11,6 +11,6 @@
     - สร้าง knowledge base ที่จัดเก็บเป็น chunks โดยแต่ละ chunk มี metadata ระบุ category1 และ category2 ชัดเจน,
     - ทดสอบระบบ RAG โดยส่งคำถามเข้าสู่ระบบ และบันทึก chunks ที่ถูกดึงออกมา,
     - ประเมินผล โดยตรวจสอบว่า chunk ที่ระบบดึงมาในอันดับต้น ๆ (Top‑k) มีหมวดหมู่ตรงกับที่ label ไว้หรือไม่,
-  - ใช้เกณฑ์ เช่น Top‑K Accuracy, Precision/Recall ต่อ category, F1 score
+  - ใช้เกณฑ์ เช่น Top‑K Accuracy,Top-K Category Match, Precision / Recall / F1-score ต่อ category → เพื่อดูว่าแต่ละหมวด RAG ดึงได้แม่นแค่ไหน และดึงครบหรือเปล่า
   - <img width="1281" height="949" alt="image" src="https://github.com/user-attachments/assets/73479504-17f4-4906-a739-bb7dfa439617" />
 
