@@ -8,7 +8,7 @@
   - **Retrieval Augmented Generation Evaluation in the Era of Large Language Models: A Comprehensive Survey** : evaluation framework แบบ unified สำหรับระบบ RAG = ประเมินทั้ง retrieval(วัดคสม.ดึงเอกสารที่เกี่ยวข้องกับคำถาม ใช้ recall, Precision, nDCG) และ generation (วัดคุณภาพของข้อความที่ LLM สร้างจากบริบทที่ retrieve มา เช่น Faithfulness,Completeness, Fluency)
     - https://arxiv.org/html/2504.14891v1#S4
 -  Report Chapter 2 : qdrant vector store
-  - https://typst.app/project/wHbbZGEpDT3YUrZN4I85tj
+   - https://typst.app/project/wHbbZGEpDT3YUrZN4I85tj
     
 **Future work**
 - report
